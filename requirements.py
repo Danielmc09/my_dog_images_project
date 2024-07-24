@@ -1,3 +1,6 @@
+fastapi
+boto3
 requests
-psycopg2-binary
+pydantic
+uvicorn
 python-dotenv
